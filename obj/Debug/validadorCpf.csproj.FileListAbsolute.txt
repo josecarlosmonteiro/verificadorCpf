@@ -1,0 +1,14 @@
+C:\Users\j.de.araujo.monteiro\Documents\brincadeiras\validadorCpf\validadorCpf\bin\Debug\validadorCpf.exe.config
+C:\Users\j.de.araujo.monteiro\Documents\brincadeiras\validadorCpf\validadorCpf\bin\Debug\validadorCpf.exe
+C:\Users\j.de.araujo.monteiro\Documents\brincadeiras\validadorCpf\validadorCpf\bin\Debug\validadorCpf.pdb
+C:\Users\j.de.araujo.monteiro\Documents\brincadeiras\validadorCpf\validadorCpf\obj\Debug\validadorCpf.csproj.CoreCompileInputs.cache
+C:\Users\j.de.araujo.monteiro\Documents\brincadeiras\validadorCpf\validadorCpf\obj\Debug\validadorCpf.exe
+C:\Users\j.de.araujo.monteiro\Documents\brincadeiras\validadorCpf\validadorCpf\obj\Debug\validadorCpf.pdb
+C:\Users\j.de.araujo.monteiro\Documents\brincadeiras\validadorCpf\validadorCpf\obj\Debug\validadorCpf.csprojAssemblyReference.cache
+C:\Users\j.de.araujo.monteiro\Documents\brincadeiras\verificadorCpf\validadorCpf\bin\Debug\validadorCpf.exe.config
+C:\Users\j.de.araujo.monteiro\Documents\brincadeiras\verificadorCpf\validadorCpf\bin\Debug\validadorCpf.exe
+C:\Users\j.de.araujo.monteiro\Documents\brincadeiras\verificadorCpf\validadorCpf\bin\Debug\validadorCpf.pdb
+C:\Users\j.de.araujo.monteiro\Documents\brincadeiras\verificadorCpf\validadorCpf\obj\Debug\validadorCpf.csprojAssemblyReference.cache
+C:\Users\j.de.araujo.monteiro\Documents\brincadeiras\verificadorCpf\validadorCpf\obj\Debug\validadorCpf.csproj.CoreCompileInputs.cache
+C:\Users\j.de.araujo.monteiro\Documents\brincadeiras\verificadorCpf\validadorCpf\obj\Debug\validadorCpf.exe
+C:\Users\j.de.araujo.monteiro\Documents\brincadeiras\verificadorCpf\validadorCpf\obj\Debug\validadorCpf.pdb
